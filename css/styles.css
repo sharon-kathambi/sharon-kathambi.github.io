@@ -6,3 +6,25 @@ img.resize1{
   width:500px;
   height:300px;
 }
+body{
+  background-color: #D0A69D
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 2px 2px #8D7671
+}
+h2{
+  text-align: center;
+}
+.test-box{
+  border:2px solid ;
+  font-size: 20px;
+}
+img{
+  float: left;
+}
+body{
+  font-size: 20px;
+  font-family: sans-serif;
+}
