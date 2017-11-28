@@ -1,14 +1,8 @@
 img.resize{
  width:500px;
- height:600px;
+ height:400px;
 }
-img.resize1{
-  width:500px;
-  height:300px;
-}
-body{
-  background-color: #D0A69D
-}
+
 h1{
   text-align: center;
   font-size: 50px;
@@ -17,14 +11,24 @@ h1{
 h2{
   text-align: center;
 }
-.test-box{
+.testbox1{
   border:2px solid ;
   font-size: 20px;
+  background-color: #FDCD6D;
+  padding: 6px;
+  margin: 20px;
 }
-img{
-  float: left;
-}
+
 body{
   font-size: 20px;
   font-family: sans-serif;
+}
+h4{
+  text-align: center;
+}
+.testbox2{
+  border: 2px;
+}
+.testbox3{
+border:1px;
 }
