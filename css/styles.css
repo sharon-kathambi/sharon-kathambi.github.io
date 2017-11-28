@@ -4,31 +4,60 @@ img.resize{
 }
 
 h1{
-  text-align: center;
+  text-align: right;
   font-size: 50px;
   text-shadow: 2px 2px #8D7671
 }
 h2{
-  text-align: center;
-}
-.testbox1{
-  border:2px solid ;
-  font-size: 20px;
-  background-color: #FDCD6D;
-  padding: 6px;
-  margin: 20px;
+  text-align: right;
 }
 
 body{
-  font-size: 20px;
+  font-size: 10px;
   font-family: sans-serif;
+  color: black;
 }
 h4{
   text-align: center;
+  font-style: oblique;
+  font-size: 25px;
 }
-.testbox2{
-  border: 2px;
+.intro{
+    float: right;
+    width: 700px;
+    height:300px;
+    margin: 10px;
+    background-color: #FAE3D9;
+    border: 25px solid #BBDED6;
+    padding: 25px;
 }
-.testbox3{
-border:1px;
+.why{
+    border:25px solid #BBDED6;
+    float:left;
+    margin: 10px;
+    padding: 25px;
+    background-color: #FAE3D9;
+    width:400px;
+    height:400px;
+}
+body{
+  background-color: #FFB6B9;
+}
+#interests{
+  float: right;
+  width: 500px;
+  height:400px;
+  margin: 10px;
+  background-color: #FAE3D9;
+  border: 25px solid #BBDED6;
+  padding: 25px;
+}
+.project{
+  border:25px solid #BBDED6;
+  float:left;
+  margin: 10px;
+  padding: 25px;
+  background-color: #FAE3D9;
+  width:400px;
+  height:300px;
 }
