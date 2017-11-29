@@ -44,7 +44,7 @@ body{
   background-color: #FFB6B9;
 }
 #interests{
-  float: right;
+  float: left;
   width: 500px;
   height:400px;
   margin: 10px;
@@ -54,10 +54,19 @@ body{
 }
 .project{
   border:25px solid #BBDED6;
-  float:left;
+  float:right;
   margin: 10px;
   padding: 25px;
   background-color: #FAE3D9;
   width:400px;
   height:300px;
+}
+.footer{
+  background-color: #FAE3D9;
+    color: black;
+    padding: 15px;
+}
+.nav{
+  font-size: 20px;
+  
 }
